@@ -3,6 +3,14 @@
 
 
 <html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://bootswatch.com/4/minty/bootstrap.min.css">
+		<style>
+			body {
+				margin: 30px;
+			}
+		</style>
+	</head>
 
 	<body>
 
@@ -24,11 +32,16 @@
 
 				<li>Girls can code!</li>
 
+				<li>What do I do now?</li>
+
 			</ul>
 
 		</p>
+		<a href="mailto:julie3303@gmail.com">Send me an email</a>
 
 	</body>
+	<script>
+		alert('Welcome!')
+	</script>
 
 </html>
-
